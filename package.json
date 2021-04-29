@@ -35,6 +35,7 @@
     "webpack-dev-server": "3.11.0"
   },
   "dependencies": {
+    "acudit": "file:acudit",
     "axios": "0.21.0",
     "easy-ftp": "0.4.1",
     "react": "17.0.1",
