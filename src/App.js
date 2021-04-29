@@ -7,7 +7,6 @@ function App() {
         <div>
             <h1>Preparat per riure?</h1>
             <h3><Chiste /></h3>
-            
         </div>
     )
 }
